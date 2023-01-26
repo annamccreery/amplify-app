@@ -12,8 +12,8 @@ function App() {
           <button onClick={signout}>Sign Out</button>
         </main>
       )}
-    </Authenticator>;
-  )
+    </Authenticator>
+  );
 }
 
 export default (App)
